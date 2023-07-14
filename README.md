@@ -1,6 +1,6 @@
 Software engineer.
 </br>
-Flutter, Next.js, React.js, React Native, Nest.js, Node.js,
+Next.js, React.js, React Native, Nest.js, Node.js, Flutter
 
 contact: jiun.dev@gmail.com
 
